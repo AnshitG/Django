@@ -1,0 +1,12 @@
+{
+    "NAME" : "Anshit Gupta",
+    "ABOUT_ME" : "I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.",
+    "LANGUAGES":    [
+        "C++","Python","Javascript","GoLang"
+    ],
+    "PROJECTS" : [
+        ["filter_drama","First",""],
+        ["place","Second",""],
+        ["whatshot","Third",""]
+    ]
+}
